@@ -10,7 +10,7 @@ import { SiteHeader } from "@/components/site-header"
 export default function Home() {
   const robotImages = [
     {
-      src: "/images/robot-arm-white.jpeg",
+      src: "/images/flow-control.png",
       alt: "White robotic arm with gripper",
     },
     {
@@ -18,7 +18,7 @@ export default function Home() {
       alt: "Collaborative robot arms",
     },
     {
-      src: "/images/robot-arm-orange.jpeg",
+      src: "/images/mesin-control.png",
       alt: "Orange industrial robot arm",
     },
     {
@@ -26,7 +26,7 @@ export default function Home() {
       alt: "Black robotic dog",
     },
     {
-      src: "/images/robot-dog-schematic.jpeg",
+      src: "/images/mesin-eskrim-otomatis.png",
       alt: "Robot dog schematic",
     },
   ]
